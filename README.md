@@ -9,7 +9,7 @@ This reinforcment learning agent balances a pole that is placed on a moving cart
 * Keras-RL - creates Q-Learning model which allows the agent to learn after each attempt
 
 ## Digit Recognizer
-This deep neural network takes in 28x28 image of a handwritten digit and computes what the numerical value of the digit wth 95% accuracy. The model uses data from the mnist library to train the DNN.  Libraries that were used in this project: 
+This deep neural network takes in 28x28 image of a handwritten digit and computes what the numerical value of the digit wth 98% accuracy. The model uses data from the mnist library to train the DNN.  Libraries that were used in this project: 
 * CV2 (openCV) - processes the images that the user inputs
 * NumPy - resizes the image that the user inputs
 * MatPlotLib - graphs the number that was examined for the user to view
